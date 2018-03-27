@@ -22,12 +22,12 @@ class App extends Component {
         },
         {
           description: "Averge monthly income",
-          num: "$ 1250",
+          num: "$1250",
           id: "jmdk13"
         },
         {
           description: "Yearly income",
-          num: "$ 13850",
+          num: "$13850",
           id: "4141"
         }
       ]

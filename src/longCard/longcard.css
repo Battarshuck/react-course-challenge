@@ -25,6 +25,10 @@ row::after {
     clear: both;
 }
 
+.zeromargin {
+    margin: 0;
+}
+
 /* Media Query */
 @media only screen and (max-width: 600px){
     .color{
@@ -35,6 +39,16 @@ row::after {
         width: 100%;
         font-size: 50%;
         padding: 0;
+    }
+
+    .h4color {
+        font-size: 20px;
+        max-width: 100%;
+        padding: 7px;
+    }
+
+    .h4color h4{
+        font-size: 20px;
     }
 } 
 
