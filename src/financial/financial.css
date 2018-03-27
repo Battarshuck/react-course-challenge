@@ -1,0 +1,29 @@
+.followersText {
+    background-color: white;
+    text-align: left;
+    margin-top: 4rem;
+}
+
+.maxWidth {
+    margin: none;
+}
+
+.maincard {
+    margin: none;
+    max-height:100%;
+}
+
+.width {
+    width: 100%;
+}
+
+/* Media Query */
+@media only screen and (max-width: 600px){
+    .followersBlock{
+        margin: 15px;
+    }
+
+    .maincard {
+        margin-top: 1rem;
+    }
+} 

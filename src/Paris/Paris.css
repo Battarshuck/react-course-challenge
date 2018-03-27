@@ -1,0 +1,23 @@
+.ParisColor {
+    background-color: orange;
+    padding: 2%;
+}
+
+.ParisInside {
+    margin-top: 4rem; 
+    text-align: center;
+    color: white;
+}
+
+/* Media Query */
+@media only screen and (max-width: 600px){
+    .ParisColor{
+        max-width: 100%;
+        margin: 0 15px;
+    }
+
+    .resize {
+        padding: 3rem;
+        margin-top: 2rem;
+    }
+} 
